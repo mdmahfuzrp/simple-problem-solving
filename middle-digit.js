@@ -12,7 +12,7 @@ while(firstNumber<=lastNumber){
     firstNumber++;
 }
 
-// Problem Solved and some other information
+// Problem Solved and some other information:
 // -----------------------------------------------------
 /*
     Coder: Md Mahfuz RP
