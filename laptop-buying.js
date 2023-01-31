@@ -1,4 +1,4 @@
-// Problem Name: write a program - 
+// Problem Name: write a program = 
     // if you have more than 80000 BDT, you will buy Mac laptop
     // if you have more than 60000 BDT, you will buy Hp laptop
     // if you have more than 40000 BDT, you will buy Lenovo yoga computer
