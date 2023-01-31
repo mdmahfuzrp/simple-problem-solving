@@ -1,3 +1,10 @@
+// Problem Name: write a program - 
+    // if you have more than 80000 BDT, you will buy Mac laptop
+    // if you have more than 60000 BDT, you will buy Hp laptop
+    // if you have more than 40000 BDT, you will buy Lenovo yoga computer
+    // if you have more than 20000 BDT, you will buy old laptop
+    // if you have less than 20000 BDT, you can't buy any laptop
+
 // Automatic working function
 // it's recive my budget
 function buyLaptop(amount){
